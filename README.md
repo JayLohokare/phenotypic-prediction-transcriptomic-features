@@ -3,6 +3,7 @@
 Machine learning project to predict population based on 'Salmon' dataset using transcriptomic features
 
 **Abstract**
+
 Motivation: The main aim is to achieve the maximum accuracy in classifying the samples using multi-class
 classification models.
 
